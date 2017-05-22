@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="IngresaUsuarios.Insert" CodeBehind="Insert.svc.cs" %>
